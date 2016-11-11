@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="lblUpdatedDt.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 13pt, style=Bold</value>
+  </data>
+  <data name="lblUpdatedDt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>842, 192</value>
+  </data>
+  <data name="lblUpdatedDt.Size" type="System.Drawing.Size, System.Drawing">
+    <value>133, 22</value>
+  </data>
+  <data name="lblUpdatedDt.Text" xml:space="preserve">
+    <value>చివరిగా నవీకరించిన తేదీ :</value>
+  </data>
+  <data name="lblUpdatedDate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1002, 197</value>
+  </data>
+  <data name="lblUpdatedDate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 14</value>
+  </data>
+  <data name="lblUpdatedDate.Text" xml:space="preserve">
+    <value>date</value>
+  </data>
+  <data name="lblHeading.Location" type="System.Drawing.Point, System.Drawing">
+    <value>630, 218</value>
+  </data>
+  <data name="lblHeading.Size" type="System.Drawing.Size, System.Drawing">
+    <value>259, 35</value>
+  </data>
+  <data name="lblHeading.Text" xml:space="preserve">
+    <value>యొక్క వైద్య ఖర్చుల కు స్వాగతం</value>
+  </data>
+  <data name="lblExName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>357, 218</value>
+  </data>
+  <data name="lblExName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 35</value>
+  </data>
+  <data name="lblExName.Text" xml:space="preserve">
+    <value>Exname</value>
+  </data>
+  <data name="lblTotEligibleAmt.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 13pt, style=Bold</value>
+  </data>
+  <data name="lblTotEligibleAmt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>447, 286</value>
+  </data>
+  <data name="lblTotEligibleAmt.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 22</value>
+  </data>
+  <data name="lblTotEligibleAmt.Text" xml:space="preserve">
+    <value>అర్హత మొత్తం :</value>
+  </data>
+  <data name="btnHome.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        RU5ErkJggg==
+</value>
+  </data>
+  <data name="btnHome.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 13pt, style=Bold</value>
+  </data>
+  <data name="btnHome.Location" type="System.Drawing.Point, System.Drawing">
+    <value>770, 775</value>
+  </data>
+  <data name="btnHome.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 104</value>
+  </data>
+  <data name="btnHome.Text" xml:space="preserve">
+    <value>హామ్</value>
+  </data>
+  <data name="btnBack.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 13pt, style=Bold</value>
+  </data>
+  <data name="btnBack.Text" xml:space="preserve">
+    <value>వెనుకకు</value>
+  </data>
+  <data name="lblTotalEligibleAmount.Location" type="System.Drawing.Point, System.Drawing">
+    <value>534, 292</value>
+  </data>
+  <data name="lblAvailBal.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 13pt, style=Bold</value>
+  </data>
+  <data name="lblAvailBal.Location" type="System.Drawing.Point, System.Drawing">
+    <value>671, 286</value>
+  </data>
+  <data name="lblAvailBal.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 22</value>
+  </data>
+  <data name="lblAvailBal.Text" xml:space="preserve">
+    <value>అందుబాటులో బాలన్స్ :</value>
+  </data>
+  <data name="lblAvailbleBalance.Location" type="System.Drawing.Point, System.Drawing">
+    <value>812, 292</value>
+  </data>
+  <data name="dGVMedicalExpences.Location" type="System.Drawing.Point, System.Drawing">
+    <value>197, 17</value>
+  </data>
+  <data name="dGVMedicalExpences.Size" type="System.Drawing.Size, System.Drawing">
+    <value>293, 82</value>
+  </data>
+  <data name="btnLogout.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 13pt, style=Bold</value>
+  </data>
+  <data name="btnLogout.Text" xml:space="preserve">
+    <value>లాగౌట్</value>
+  </data>
+</root>

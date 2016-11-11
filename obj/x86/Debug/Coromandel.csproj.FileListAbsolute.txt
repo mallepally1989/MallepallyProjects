@@ -1,0 +1,849 @@
+D:\Coromandel\Coromandel\Coromandel\bin\Debug\Coromandel.exe.config
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Coromandel_MasterPage.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Language_Selection.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Header.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Welcome_Screen.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Coromandel\Coromandel\Coromandel\bin\Debug\Coromandel.exe
+D:\Coromandel\Coromandel\Coromandel\bin\Debug\Coromandel.pdb
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Properties.Resources.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.exe
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.pdb
+D:\Coromandel\Coromandel\Coromandel\bin\Debug\en-IN\Coromandel.resources.dll
+D:\Coromandel\Coromandel\Coromandel\bin\Debug\te\Coromandel.resources.dll
+D:\Coromandel\Coromandel\Coromandel\bin\Debug\sq-AL\Coromandel.resources.dll
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Language_Selection_Tamil.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.sq-AL.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\en-IN\Coromandel.resources.dll
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\te\Coromandel.resources.dll
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\sq-AL\Coromandel.resources.dll
+D:\Coromandel\Coromandel\Coromandel\bin\Debug\ta\Coromandel.resources.dll
+D:\Coromandel\Coromandel\Coromandel\bin\Debug\te-IN\Coromandel.resources.dll
+D:\Coromandel\Coromandel\Coromandel\bin\Debug\af\Coromandel.resources.dll
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.te.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.en-IN.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.af.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.ta.resources
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\ta\Coromandel.resources.dll
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\te-IN\Coromandel.resources.dll
+D:\Coromandel\Coromandel\Coromandel\obj\x86\Debug\af\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\Coromandel.exe.config
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.exe
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.pdb
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\Coromandel.exe
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\Coromandel.pdb
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\en-IN\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\ta\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\te\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\te-IN\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\af\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\sq-AL\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Coromandel_MasterPage.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Language_Selection.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Header.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Language_Selection_Tamil.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Properties.Resources.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Welcome_Screen.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.af.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.sq-AL.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\en-IN\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\ta\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\te\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\te-IN\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\af\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\sq-AL\Coromandel.resources.dll
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\Coromandel.exe.config
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.exe
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.pdb
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\Coromandel.exe
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\Coromandel.pdb
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\en-IN\Coromandel.resources.dll
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\ta\Coromandel.resources.dll
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\te\Coromandel.resources.dll
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\te-IN\Coromandel.resources.dll
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\af\Coromandel.resources.dll
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\bin\Debug\sq-AL\Coromandel.resources.dll
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Coromandel_MasterPage.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Language_Selection.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Header.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Language_Selection_Tamil.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Properties.Resources.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Welcome_Screen.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.af.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.sq-AL.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.en-IN.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.ta.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.te.resources
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\en-IN\Coromandel.resources.dll
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\ta\Coromandel.resources.dll
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\te\Coromandel.resources.dll
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\te-IN\Coromandel.resources.dll
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\af\Coromandel.resources.dll
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\sq-AL\Coromandel.resources.dll
+C:\Documents and Settings\N\Desktop\Coromandel\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Change_password.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\bin\Debug\Coromandel.exe.config
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.exe
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.pdb
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\bin\Debug\Coromandel.exe
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\bin\Debug\Coromandel.pdb
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\bin\Debug\en-IN\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\bin\Debug\ta\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\bin\Debug\te\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\bin\Debug\te-IN\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\bin\Debug\af\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\bin\Debug\sq-AL\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Change_password.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Coromandel_MasterPage.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Language_Selection.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Header.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Language_Selection_Tamil.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Properties.Resources.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Welcome_Screen.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.af.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.sq-AL.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.en-IN.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.ta.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.te.resources
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\en-IN\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\ta\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\te\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\te-IN\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\af\Coromandel.resources.dll
+C:\Users\Dinesh\Desktop\Coromandel\Coromandel\obj\x86\Debug\sq-AL\Coromandel.resources.dll
+G:\Coromandel\Coromandel\bin\Debug\Coromandel.exe.config
+G:\Coromandel\Coromandel\obj\x86\Debug\Coromandel.exe
+G:\Coromandel\Coromandel\obj\x86\Debug\Coromandel.pdb
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\bin\Debug\Coromandel.exe.config
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\bin\Debug\Coromandel.exe
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\bin\Debug\Coromandel.pdb
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\bin\Debug\en-IN\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\bin\Debug\ta\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\bin\Debug\te\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\bin\Debug\te-IN\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\bin\Debug\af\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\bin\Debug\sq-AL\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Change_password.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Coromandel_MasterPage.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Language_Selection.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Header.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Language_Selection_Tamil.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Welcome_Screen.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.af.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.sq-AL.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Member_Account.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Over_Time.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.ta.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.te.resources
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\en-IN\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\ta\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\te\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\te-IN\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\af\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\sq-AL\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.exe
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.pdb
+C:\Users\Administrator\Desktop\Coromandel\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.te-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\bin\Debug\Coromandel.exe.config
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.exe
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.pdb
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\bin\Debug\Coromandel.exe
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\bin\Debug\Coromandel.pdb
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\bin\Debug\en-IN\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\bin\Debug\ta\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\bin\Debug\te-IN\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\bin\Debug\te\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\bin\Debug\af\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\bin\Debug\sq-AL\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Change_password.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Coromandel_MasterPage.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Language_Selection.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Header.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Language_Selection_Tamil.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Member_Account.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Over_Time.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Welcome_Screen.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.te-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.af.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Member_Account.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.sq-AL.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Member_Account.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Member_Account.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Over_Time.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Over_Time.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Over_Time.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.en-IN.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.ta.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.te.resources
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\en-IN\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\ta\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\te-IN\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\te\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\af\Coromandel.resources.dll
+C:\Users\Administrator\Desktop\Coromandel1\Coromandel\obj\x86\Debug\sq-AL\Coromandel.resources.dll
+D:\Coromandel1\Coromandel\bin\Debug\Coromandel.exe.config
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.exe
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.pdb
+D:\Coromandel1\Coromandel\bin\Debug\Coromandel.exe
+D:\Coromandel1\Coromandel\bin\Debug\Coromandel.pdb
+D:\Coromandel1\Coromandel\bin\Debug\en-IN\Coromandel.resources.dll
+D:\Coromandel1\Coromandel\bin\Debug\ta\Coromandel.resources.dll
+D:\Coromandel1\Coromandel\bin\Debug\te-IN\Coromandel.resources.dll
+D:\Coromandel1\Coromandel\bin\Debug\te\Coromandel.resources.dll
+D:\Coromandel1\Coromandel\bin\Debug\af\Coromandel.resources.dll
+D:\Coromandel1\Coromandel\bin\Debug\sq-AL\Coromandel.resources.dll
+D:\Coromandel1\Coromandel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Change_password.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Coromandel_MasterPage.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Language_Selection.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Header.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Language_Selection_Tamil.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Member_Account.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Over_Time.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Properties.Resources.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Welcome_Screen.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.te-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.af.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Member_Account.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.sq-AL.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Member_Account.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Member_Account.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Over_Time.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Over_Time.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Over_Time.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.en-IN.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.ta.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.te.resources
+D:\Coromandel1\Coromandel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Coromandel1\Coromandel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Coromandel1\Coromandel\obj\x86\Debug\en-IN\Coromandel.resources.dll
+D:\Coromandel1\Coromandel\obj\x86\Debug\ta\Coromandel.resources.dll
+D:\Coromandel1\Coromandel\obj\x86\Debug\te-IN\Coromandel.resources.dll
+D:\Coromandel1\Coromandel\obj\x86\Debug\te\Coromandel.resources.dll
+D:\Coromandel1\Coromandel\obj\x86\Debug\af\Coromandel.resources.dll
+D:\Coromandel1\Coromandel\obj\x86\Debug\sq-AL\Coromandel.resources.dll
+C:\Documents and Settings\anil.kandoor\Desktop\Coromandel1\Coromandel\bin\Debug\Coromandel.exe.config
+C:\Documents and Settings\anil.kandoor\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.exe
+C:\Documents and Settings\anil.kandoor\Desktop\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.pdb
+G:\Coromandel1\Coromandel\bin\Debug\Coromandel.exe.config
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.exe
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.pdb
+G:\Coromandel1\Coromandel\bin\Debug\Coromandel.exe
+G:\Coromandel1\Coromandel\bin\Debug\Coromandel.pdb
+G:\Coromandel1\Coromandel\bin\Debug\en-IN\Coromandel.resources.dll
+G:\Coromandel1\Coromandel\bin\Debug\ta\Coromandel.resources.dll
+G:\Coromandel1\Coromandel\bin\Debug\te-IN\Coromandel.resources.dll
+G:\Coromandel1\Coromandel\bin\Debug\te\Coromandel.resources.dll
+G:\Coromandel1\Coromandel\bin\Debug\af\Coromandel.resources.dll
+G:\Coromandel1\Coromandel\bin\Debug\sq-AL\Coromandel.resources.dll
+G:\Coromandel1\Coromandel\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Change_password.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Coromandel_MasterPage.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Language_Selection.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Header.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Language_Selection_Tamil.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Member_Account.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Over_Time.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Properties.Resources.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Welcome_Screen.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.te-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Employee_Lgn.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.af.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Member_Account.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Detail.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Record.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Leave_Summary.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LIC_Policies.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanDetails_Brief.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.LoanTypes.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Balance.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Details1.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loan_Statement.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Location_Selection.sq-AL.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Loss_Of_Pay_Summary.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Medical_Expences.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Member_Account.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Member_Account.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Over_Time.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Over_Time.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Over_Time.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Pay_Slip1.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.Total_Leaves_Per_Month.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.en-IN.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.ta.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.View_Pay_slip.te.resources
+G:\Coromandel1\Coromandel\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Coromandel1\Coromandel\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Coromandel1\Coromandel\obj\x86\Debug\en-IN\Coromandel.resources.dll
+G:\Coromandel1\Coromandel\obj\x86\Debug\ta\Coromandel.resources.dll
+G:\Coromandel1\Coromandel\obj\x86\Debug\te-IN\Coromandel.resources.dll
+G:\Coromandel1\Coromandel\obj\x86\Debug\te\Coromandel.resources.dll
+G:\Coromandel1\Coromandel\obj\x86\Debug\af\Coromandel.resources.dll
+G:\Coromandel1\Coromandel\obj\x86\Debug\sq-AL\Coromandel.resources.dll
+C:\Users\Sagar\Documents\pendrv\Coromandel1\Coromandel\bin\Debug\Coromandel.exe.config
+C:\Users\Sagar\Documents\pendrv\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.exe
+C:\Users\Sagar\Documents\pendrv\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.pdb
+F:\pendrv\Coromandel1\Coromandel\bin\Debug\Coromandel.exe.config
+F:\pendrv\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.exe
+F:\pendrv\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.pdb
+E:\projects\Coromandel1\Coromandel\bin\Debug\Coromandel.exe.config
+E:\projects\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.exe
+E:\projects\Coromandel1\Coromandel\obj\x86\Debug\Coromandel.pdb
